@@ -27,7 +27,7 @@ export const projects: Project[] = [
       'Pydantic',
       'Python',
     ],
-    githubUrl: 'https://github.com/sudo-Harshk/marketsense-ai',
+    githubUrl: 'https://github.com/sudo-Harshk/marketsense-ai.git',
     demoUrl: 'https://marketsense-research.streamlit.app/',
     ambientBg:
       'linear-gradient(145deg, #FAF5FF 0%, #EDE9FE 45%, #EFF6FF 100%)',
@@ -49,7 +49,7 @@ export const projects: Project[] = [
       'AsyncIO',
       'Render',
     ],
-    githubUrl: 'https://github.com/sudo-Harshk/triad',
+    githubUrl: 'https://github.com/sudo-Harshk/triad.git',
     demoUrl: 'https://triad-55mk.onrender.com/',
     ambientBg:
       'linear-gradient(145deg, #EFF6FF 0%, #DBEAFE 45%, #ECFDF5 100%)',
@@ -73,7 +73,7 @@ export const projects: Project[] = [
       'Groq',
       'Pydantic',
     ],
-    githubUrl: 'https://github.com/sudo-Harshk/tender-ai',
+    githubUrl: 'https://github.com/sudo-Harshk/TenderAI.git',
     demoUrl: 'https://neon-dodol-3d56d3.netlify.app/',
     ambientBg:
       'linear-gradient(145deg, #F0FDF4 0%, #DCFCE7 45%, #EFF6FF 100%)',
@@ -99,7 +99,7 @@ export const projects: Project[] = [
       'tree-sitter',
       'Docker',
     ],
-    githubUrl: 'https://github.com/sudo-Harshk/codemorpher',
+    githubUrl: 'https://github.com/sudo-Harshk/codemorpher.git',
     demoUrl: 'https://codemorpher-frontend.web.app/',
     ambientBg:
       'linear-gradient(145deg, #EEF2FF 0%, #DBEAFE 45%, #ECFEFF 100%)',
