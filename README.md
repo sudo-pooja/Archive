@@ -122,7 +122,7 @@ No login required. All four projects are visible immediately. Click or keyboard-
 ### Install
 
 ```bash
-git clone https://github.com/sudo-Harshk/archive.git
+git clone https://github.com/sudo-pooja/Archive.git
 cd archive
 npm install
 ```
@@ -257,6 +257,6 @@ Copyright (c) 2026 [sudo-Harshk](https://github.com/sudo-pooja/)
 
 <div align="center">
 
-Built by [sudo-Harshk](https://github.com/sudo-pooja/) · [Live Demo](https://your-url-here.vercel.app) · [MIT License](LICENSE)
+Built by [sudo-pooja](https://github.com/sudo-pooja/) · [Live Demo](https://your-url-here.vercel.app) · [MIT License](LICENSE)
 
 </div>
