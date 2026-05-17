@@ -4,7 +4,7 @@
 
 **A curated portfolio of deployed AI systems, reasoning pipelines, and grounded digital products.**
 
-[Try it live ->](https://your-url-here.vercel.app)
+[Try it live ->](https://archive-alpha-seven.vercel.app/)
 
 ---
 
@@ -257,6 +257,6 @@ Copyright (c) 2026 [sudo-Harshk](https://github.com/sudo-pooja/)
 
 <div align="center">
 
-Built by [sudo-pooja](https://github.com/sudo-pooja/) · [Live Demo](https://your-url-here.vercel.app) · [MIT License](LICENSE)
+Built by [sudo-pooja](https://github.com/sudo-pooja/) · [Live Demo](https://archive-alpha-seven.vercel.app/) · [MIT License](LICENSE)
 
 </div>
